@@ -1,0 +1,48 @@
+{
+    "data": [
+        [
+            {
+                "id": 0,
+                "text": "Milimeter",
+                "color": "#ff8000"
+            },
+            {
+                "id": 1,
+                "text": "Centimeter",
+                "color": "#ffa64d"
+            },
+            {
+                "id": 2,
+                "text": "Decimeter",
+                "color": "#ff8000"
+            },
+            {
+                "id": 3,
+                "text": "Meter",
+                "color": "#ffa64d"
+            }
+        ],
+        [
+            {
+                "id": 0,
+                "text": "Gam",
+                "color": "#ff8000"
+            },
+            {
+                "id": 1,
+                "text": "Decagam",
+                "color": "#ffa64d"
+            },
+            {
+                "id": 2,
+                "text": "Hectogam",
+                "color": "#ff8000"
+            },
+            {
+                "id": 3,
+                "text": "Kilogam",
+                "color": "#ffa64d"
+            }
+        ]
+    ]
+}
